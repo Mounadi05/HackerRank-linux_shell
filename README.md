@@ -110,8 +110,7 @@ Text%20Processing/Paste%20-%204.sh) |
 
 | Number | Challenge | Solutions |
 |:------:|-----------|:---------:|
-|1|[Read in an Array](https://www.hackerrank.com/bash-tutorials-read-in-an-array/problem) | [Solution](Cg
-Arrays%20in%20Bash/Read%20in%20an%20Array.sh) |
+|1|[Read in an Array](https://www.hackerrank.com/bash-tutorials-read-in-an-array/problem) | [Solution](Arrays%20in%20Bash/Read%20in%20an%20Array.sh) |
 |2|[Slice an Array](https://www.hackerrank.com/bash-tutorials-slice-an-array/problem) | [Solution](Cg
 Arrays%20in%20Bash/Slice%20an%20Array.sh) |
 |3|[Filter an Array with Patterns](https://www.hackerrank.com/bash-tutorials-filter-an-array-with-patterns/problem) | [Solution](Cg
